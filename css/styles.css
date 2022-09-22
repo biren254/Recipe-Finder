@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+.Sansita{
+    font-family: 'Sansita Swashed', cursive;
+}
+.Dangrek{
+    font-family: 'Dangrek', cursive;
+}
+.card-img{
+    filter: blur(1.5px);
+}
